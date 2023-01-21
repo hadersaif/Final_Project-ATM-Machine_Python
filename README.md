@@ -5,7 +5,7 @@ The ATM Machine project by Python and GUI Tkinter contains all the features of A
 
 
 
-**Hint
+# **Hint
 
 
 current_balance = 1000
